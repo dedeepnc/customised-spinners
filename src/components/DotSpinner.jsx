@@ -10,8 +10,6 @@ const jump = keyframes`
   35% {
     transform: translateY(-25px);
   }
-  
-  }
 `;
 const StyledSVG = styled.svg`
   animation: ${jump} 2s linear infinite;

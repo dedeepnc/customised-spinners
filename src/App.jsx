@@ -8,11 +8,11 @@ function App() {
   return (
     <div>
       <p>
-        Circular Spinner
+        Circular Spinner:
         <CircularSpinner color="" opacity="0.5" speed="2s" direction="360deg" />
       </p>
       <p>
-        Dot Spinner
+        Dot Spinner:
         <DotSpinner />
       </p>
     </div>
